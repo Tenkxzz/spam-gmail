@@ -20,9 +20,7 @@ Bukan untuk spam atau penyalahgunaan layanan email.
 ---
 
 ## 📸 Screenshots
-![main menu](https://raw.githubusercontent.com/username/pretty-send/main/images/menu.jpg)
-
-> *(Opsional, boleh dihapus kalau belum ada folder images)*
+![alt text](https://github.com/Tenkxzz/spam-gmail/blob/main/images/main_menu.jpg?raw=true)
 
 ---
 
