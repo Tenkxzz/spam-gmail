@@ -69,9 +69,9 @@ pip install pycryptodome
 
 pkg install git
 
-git clone https://github.com/Tenkxzz/spam-email.git
+git clone https://github.com/Tenkxzz/spam-gmail.git
 
-cd spam-email
+cd spam-gmail
 
 pip install requests colorama
 
