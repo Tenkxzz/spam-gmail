@@ -38,8 +38,8 @@ Bukan untuk spam atau penyalahgunaan layanan email.
 
 ## 👤 Author
 - Nama: **Tenz**
-- Jenis Project: **Email Sender berbasis Python**
-- Tujuan: **Eksperimen & pembelajaran SMTP**
+- Jenis Project: **Spam Email**
+- Tujuan: **Eksperimen**
 
 ---
 
