@@ -1,5 +1,4 @@
-# 📧 Pretty Send
-⚠️ DISCLAIMER  
+# ⚠️ DISCLAIMER  
 Project ini dibuat untuk **tujuan eksperimen**.  
 Bukan untuk spam atau penyalahgunaan layanan email.
 
