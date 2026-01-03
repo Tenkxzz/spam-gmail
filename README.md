@@ -27,7 +27,7 @@ Bukan untuk spam atau penyalahgunaan layanan email.
 ---
 
 ## ⚠️ Catatan
-- Gunakan **API / Password pribadi**
+- Gunakan **Password pribadi**
 - Jangan membagikan password Gmail
 - Disarankan memakai **Gmail App Password**
 - Patuhi kebijakan Google (SMTP & Email)
